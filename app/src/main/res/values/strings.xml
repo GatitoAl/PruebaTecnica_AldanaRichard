@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PruebaTecnica_RA</string>
+    <string name="name_pokemon">Pokemon name</string>
+    <string name="id">ID: 1</string>
 </resources>
